@@ -39,3 +39,18 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# next.js telemetry
+*.next/telemetry
+
+# next.js dist
+.out
+
+# next.js cache
+.next/cache
+
+# JetBrains
+.idea
+
+# VSCode
+.vscode
