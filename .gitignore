@@ -54,3 +54,4 @@ next-env.d.ts
 
 # VSCode
 .vscode
+package-lock.json
